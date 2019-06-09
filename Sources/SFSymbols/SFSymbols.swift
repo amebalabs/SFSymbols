@@ -1,4 +1,4 @@
-@available(iOS 13.0,watchOS 6,tvOS 13, *)
+@available(iOS 13.0, watchOS 6, tvOS 13, *)
 public enum SFSymbol: String, CaseIterable {
     case _00Circle = "00.circle"
     case _00CircleFill = "00.circle.fill"
